@@ -6,7 +6,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## projeto de teste para o netlify
+## projeto de teste e prática para o netlify
 
 pode ser acessado em: https://live-angular-dio.netlify.app
 
