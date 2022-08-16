@@ -9,3 +9,11 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 ## projeto de teste para o netlify
 
 pode ser acessado em: https://live-angular-dio.netlify.app
+
+## Cursos de angular ministrado pelo:
+
+Ivo Soares
+
+## Cursos fornecidos pela:
+
+https://web.dio.me
